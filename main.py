@@ -6,7 +6,7 @@ See assignment-01.pdf for details.
 
 def foo(x):
     
-    if x < 1:
+    if x <= 1:
         return x
     
     else:
